@@ -1,0 +1,21 @@
+{
+  "name": "resloyse",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "musician.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "loysekrug",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
